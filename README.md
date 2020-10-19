@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Janak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=janak1998&show_icons=true&hide_border=true" />
+  <img align="left" alt="Janak's GitHub Stats" src="https://https://github-readme-stats.janak1998.vercel.app/api?username=janak1998&show_icons=true&hide_border=true" />
 
 </details>
 
