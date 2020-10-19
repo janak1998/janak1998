@@ -1,4 +1,4 @@
-### Hi there, I'm Janak [website] 👋
+### Hi there, I'm Janak👋
 
 
 [![Website](https://img.shields.io/website?label=JANAK-BOHRA&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.xyz)](https://janak1998.github.io/Protfolio2020/)
