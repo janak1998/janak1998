@@ -1,7 +1,7 @@
 ### Hi there, I'm Janak👋
 
 
-[![Website]([https://janak1998.github.io/Protfolio2020/](https://janak1998.github.io/Protfolio2020/))
+
 
 ## I'm Front-end Developer
 
