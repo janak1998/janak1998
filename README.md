@@ -47,7 +47,5 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[instagram]: https://www.instagram.com/janak.bohra/
-[linkedin]: https://www.linkedin.com/in/janak-bohra/
+
 
