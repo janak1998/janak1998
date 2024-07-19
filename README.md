@@ -6,7 +6,7 @@
 ## I'm Front-end Developer
 
 - 🔭 I’m currently working on Front-end Development
-- 🌱 I’m currently learning REACT.
+- 🌱 I’m currently learning NEXTJS.
 - 👯 I’m looking to help anyone if needed!
 - 🥅 2024 Goals: Make more React apps and learn Go.
 - ⚡ Fun fact: I am a fitness freak and love to read.
